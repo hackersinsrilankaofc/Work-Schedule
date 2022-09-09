@@ -1,4 +1,4 @@
 - Admission Groups
 - Reporting Groups
 - Hijacking Groups
-- Spamming Groupa
+- Spamming Groups
